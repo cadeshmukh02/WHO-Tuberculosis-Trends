@@ -1,4 +1,4 @@
-# WHO-Tuberculosis-Trends
+# WHO Tuberculosis Trends
 This repository contains a .ipynb file that has myself and my team’s analysis of global tuberculosis trends and potential insights and recommendations to better address the global TB crisis.
 # Contributing Team Members
 Adesina Adeniran, Barrett Ratzlaff, Chaitali Deshmukh, Jyun-ru Huang, Shreya Lodha, Tharfeed Ahmed Unus
