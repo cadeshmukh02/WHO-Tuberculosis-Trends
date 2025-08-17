@@ -1,8 +1,2 @@
 # WHO Tuberculosis Trends
-This repository contains a .ipynb file that has myself and my team’s analysis of global tuberculosis trends and potential insights and recommendations to better address the global TB crisis.
-# Contributing Team Members
-Adesina Adeniran, Barrett Ratzlaff, Chaitali Deshmukh, Jyun-ru Huang, Shreya Lodha, Tharfeed Ahmed Unus
-# Features and Findings
-We investigated burdens, expenditures, budgets, treatment outcomes, and community engagement. The most prominent feature in our analysis is the estimated incidence of TB per 100k people, which we used to compare to other features as a way to determine how useful that feature is in reducing incidence rate.
-# License
-This project uses the MIT license, people are free to work on the file and contribute. The file is not a finished product, and it would be interesting to see what insights others can identify.
+The project analyzes global tuberculosis (TB) trends and provides insights and recommendations for addressing the TB crisis. It explores burdens, expenditures, budgets, treatment outcomes, and community engagement, with a particular emphasis on the estimated incidence of TB per 100,000 people. This metric is used as a benchmark to compare against other factors in order to evaluate their impact on reducing incidence rates.
